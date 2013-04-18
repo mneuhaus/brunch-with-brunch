@@ -16,12 +16,6 @@
     "test": "brunch test"
   },
   "dependencies": {
-    "javascript-brunch": ">= 1.0 < 1.6",
-
-    "css-brunch": ">= 1.0 < 1.6",
-
-    "uglify-js-brunch": ">= 1.0 < 1.6",
-    "clean-css-brunch": ">= 1.0 < 1.6"
   },
   "devDependencies": {
   }
